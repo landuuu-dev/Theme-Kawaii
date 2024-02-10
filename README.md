@@ -1,6 +1,8 @@
 # Girly Kawaii Theme
 
-![Girly Kawaii Theme](https://link.aquí/a/la/imagen/del/tema)
+
+<img src="https://ruta-a-tu-imagen/themes/tema-kawaii-claro.png" alt="Descripción de la imagen" style="border-radius: 50%;">
+
 
 Este es un tema de color inspirado en el estilo kawaii con tonos femeninos y suaves, diseñado para crear una experiencia visual agradable mientras trabajas en Visual Studio Code.
 
