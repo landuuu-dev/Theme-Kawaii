@@ -6,9 +6,10 @@ Este es un tema de color inspirado en el estilo kawaii con tonos femeninos y sua
 
 ## Capturas de pantalla
 
-![Es un tema muy claro espero que les guste tambien tiene algunos colores fuertes para destacar aun mas](https://github.com/landuuu-dev/Theme-Kawaii/blob/0107294d296c51dbd2be6f4f506322b315472cd6/themes/tema-kawaii-claro-destacados.png)
+![Es un tema muy claro espero que les guste tambien tiene algunos colores fuertes para destacar aun mas](https://github.com/landuuu-dev/Theme-Kawaii/blob/a238773ea09a3f89e04c07417f4371cdb87cff4b/themes/tema-kawaii-claro.png)
 
-![Asi se ve el tema cuando se despliega alguna opcion del menu todo es en tonos pasteles con algunos toques mas oscuros para generar contraste](themes\tema-kawaii-claro-destacados.png)
+
+![Asi se ve el tema cuando se despliega alguna opcion del menu todo es en tonos pasteles con algunos toques mas oscuros para generar contraste](https://github.com/landuuu-dev/Theme-Kawaii/blob/0107294d296c51dbd2be6f4f506322b315472cd6/themes/tema-kawaii-claro-destacados.png)
 
 ![Este es el tema oscuro personalmente es el que mas me gusta ya que es lindo y femenino sin quemarme los ojos](themes\tema-kawaii-oscuro-destacados.png)
 
