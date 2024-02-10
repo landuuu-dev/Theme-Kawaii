@@ -2,7 +2,7 @@
   "name": "girly-kawaii-theme",
   "displayName": "Girly Kawaii Theme",
   "description": "Agrega un toque de ternura y feminidad a tu entorno de codificación con este encantador tema. Inspirado en la estética encantadora de la cultura 'kawaii', este tema presenta colores suaves y pasteles, iconos adorables y acentos juguetones que harán que tu experiencia de codificación sea visualmente agradable y divertida. Ya seas fan de todo lo lindo o simplemente estés buscando agregar un poco de fantasía a tu espacio de trabajo, el Tema Femenino Kawaii seguramente alegrará tus sesiones de codificación. ¡Instálalo ahora y deja que tu código refleje tu personalidad",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.86.0"
   },
