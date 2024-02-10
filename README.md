@@ -1,11 +1,10 @@
 # Girly Kawaii Theme
 
 
-<img src="https://raw.githubusercontent.com/landuuu-dev/Theme-Kawaii/0b9a79809e9f3f33ad33bfcaf5bb4d5196526956/themes/gatito.png.png" alt="tema kawaii" style="border-radius: 50%;">
-
-
-
-Este es un tema de color inspirado en el estilo kawaii con tonos femeninos y suaves, diseñado para crear una experiencia visual agradable mientras trabajas en Visual Studio Code.
+<div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/landuuu-dev/Theme-Kawaii/0b9a79809e9f3f33ad33bfcaf5bb4d5196526956/themes/gatito.png.png" alt="tema kawaii" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 20px;">
+    <p>Este es un tema de color inspirado en el estilo kawaii con tonos femeninos y suaves, diseñado para crear una experiencia visual agradable mientras trabajas en Visual Studio Code.</p>
+</div>
 
 ## Capturas de pantalla
 
