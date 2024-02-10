@@ -1,16 +1,33 @@
-# girly-kawaii-theme README
+# Girly Kawaii Theme
 
-## Working with Markdown
+![Girly Kawaii Theme](https://link.aquí/a/la/imagen/del/tema)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Este es un tema de color inspirado en el estilo kawaii con tonos femeninos y suaves, diseñado para crear una experiencia visual agradable mientras trabajas en Visual Studio Code.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Capturas de pantalla
 
-## For more information
+![Es un tema muy claro espero que les guste tambien tiene algunos colores fuertes para destacar aun mas](themes/tema-kawaii-claro.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Asi se ve el tema cuando se despliega alguna opcion del menu todo es en tonos pasteles con algunos toques mas oscuros para generar contraste](themes/tema-kawaii-claro-destacados.png)
 
-**Enjoy!**
+![Este es el tema oscuro personalmente es el que mas me gusta ya que es lindo y femenino sin quemarme los ojos](themes/tema-kawaii-oscuro.png)
+
+
+![Tambien tiene un color fuerte cuando se le pasa el cursor por el menu me encanto como quedo](themes/tema-kawaii-oscuro-destacados.png)
+
+
+## Instalación
+
+1. Abre Visual Studio Code.
+2. Ve a la pestaña de Extensiones (Ctrl+Shift+X).
+3. Busca "Girly Kawaii Theme".
+4. Haz clic en "Instalar" para instalarlo.
+5. En la barra lateral, haz clic en el icono de engranaje y selecciona "Color Theme".
+6. Selecciona "Girly Kawaii Theme" de la lista de temas disponibles.
+
+
+
+## Licencia
+
+Este tema está disponible bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
+
